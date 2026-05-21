@@ -146,7 +146,4 @@ Projeto desenvolvido para praticar conceitos relacionados a:
 
 **Liane F. Heidemann**
 
-Graduanda em Ciência da Computação
-
 ---
-
