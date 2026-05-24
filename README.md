@@ -48,7 +48,7 @@ The chatbot collects travel information step by step and updates a reservation s
 
 ## Demo
 
-![Project demo](https://github.com/user-attachments/assets/716db4d1-658f-4a71-b9f1-684612f85c20)
+<img width="1070" height="576" alt="1000318003" src="https://github.com/user-attachments/assets/8e97933f-639e-46e9-9f31-cc5f6557f734" />
 
 ---
 
