@@ -43,4 +43,4 @@ The chatbot collects travel information step by step and updates a reservation s
 
 ## Contact
 
-Created by Liane Heidemann
+Developed by Liane Heidemann
