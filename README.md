@@ -42,6 +42,6 @@ Interface simples para navegação entre captura e resultado
 
 ## Demonstração
 
-<img width="400" height="711" alt="bordasGIF_50porcento" src="https://github.com/user-attachments/assets/37a288bb-7e69-4498-9ac3-039f15e6b9c5" />
+<img width="25%" src="https://github.com/user-attachments/assets/37a288bb-7e69-4498-9ac3-039f15e6b9c5" />
 
 ---
