@@ -1,4 +1,4 @@
-# 📷 Detector de Bordas
+# Detector de Bordas
 
 Aplicativo mobile desenvolvido em Flutter para captura de imagens utilizando a câmera do celular e aplicação de técnicas de processamento de imagem
 
@@ -25,15 +25,15 @@ Projeto desenvolvido com:
 
 ## Funcionalidades
 
-✔ Captura de imagem pela câmera do celular  
+Captura de imagem pela câmera do celular  
 
-✔ Conversão automática para tons de cinza  
+Conversão automática para tons de cinza  
 
-✔ Aplicação de algoritmo simples de detecção de bordas  
+Aplicação de algoritmo simples de detecção de bordas  
 
-✔ Exibição da imagem original e processada  
+Exibição da imagem original e processada  
 
-✔ Interface simples para navegação entre captura e resultado  
+Interface simples para navegação entre captura e resultado  
 
 ---
 
