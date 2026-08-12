@@ -38,3 +38,8 @@ The application allows users to take a photo and automatically view:
 ## Demonstration
 
 <img width="35%" src="https://github.com/user-attachments/assets/37a288bb-7e69-4498-9ac3-039f15e6b9c5" alt="Edge Detection App demonstration" />
+
+---
+
+<p align="center">Developed by <strong>Liane Heidemann</strong></p>
+
